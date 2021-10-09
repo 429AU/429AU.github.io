@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - General</title>
+	<link href="https://429au.github.io/tags/general/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://429au.github.io/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-10-09T00:00:00+00:00</updated>
+	<id>https://429au.github.io/tags/general/atom.xml</id>
+	<entry xml:lang="en">
+		<title>My First Blog</title>
+		<published>2021-10-09T00:00:00+00:00</published>
+		<updated>2021-10-09T00:00:00+00:00</updated>
+		<link href="https://429au.github.io/first-blog/" type="text/html"/>
+		<id>https://429au.github.io/first-blog/</id>
+		<content type="html">&lt;h1 id=&quot;1st-title&quot;&gt;1st title&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;2nd-title&quot;&gt;2nd title&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;3rd-title&quot;&gt;3rd title&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;list&lt;&#x2F;li&gt;
+&lt;li&gt;list
+&lt;ul&gt;
+&lt;li&gt;sublist&lt;&#x2F;li&gt;
+&lt;li&gt;sublist&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;code&gt;key word&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
+&lt;code class=&quot;language-rust&quot; data-lang=&quot;rust&quot;&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;fn &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;main&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;() {
+    print!();
+}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;\( Inline \ Math \)&lt;&#x2F;p&gt;
+&lt;p&gt;$$ \KaTeX $$&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
